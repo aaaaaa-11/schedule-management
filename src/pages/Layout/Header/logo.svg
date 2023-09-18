@@ -1,0 +1,31 @@
+<svg width="137" height="141" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#7a7374" stroke-width="3" filter="url(#svg_1_blur)" ry="69" rx="67" id="svg_1" cy="70.5" cx="68.5" fill="#f07c82"/>
+  <line stroke-width="3" stroke="#7a7374" id="svg_25" y2="28.5" x2="121.03947" y1="28.5" x1="16" fill="none"/>
+  <line id="svg_26" y2="29.4025" x2="16" y1="111.5" x1="16" stroke="#000" fill="none"/>
+  <line stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_28" y2="29.4025" x2="16" y1="111.5" x1="16" fill="none"/>
+  <line stroke-width="3" stroke="#7a7374" id="svg_29" y2="30.4025" x2="16" y1="112.5" x1="16" fill="none"/>
+  <line stroke-width="3" stroke="#707374" id="svg_30" y2="113.52247" x2="68" y1="29.5" x1="68" fill="none"/>
+  <line stroke="#7a7374" stroke-width="3" id="svg_31" y2="29.58898" x2="66.91103" y1="79.5" x1="17" fill="none"/>
+  <line stroke="#707374" stroke-width="3" id="svg_32" y2="30" x2="119.82817" y1="80" x1="70" fill="none"/>
+  <ellipse stroke="#7a7374" stroke-width="3" ry="6" rx="6" id="svg_33" cy="39" cx="40" fill="none"/>
+  <ellipse stroke="#7a7374" stroke-width="3" ry="6" rx="5" id="svg_34" cy="39" cx="92" fill="none"/>
+  <g>
+   <g>
+    <title>Layer 1</title>
+    <ellipse fill="#11c4c4" cx="68.5" cy="70.5" id="svg_44" rx="67" ry="69" filter="url(#svg_1_blur)" fill-opacity="0" stroke-width="3" stroke="#7a7374"/>
+    <line fill="none" x1="16" y1="28.5" x2="121.03947" y2="28.5" id="svg_43" stroke="#7a7374" stroke-width="3"/>
+    <line fill="none" stroke="#000" x1="16" y1="111.5" x2="16" y2="29.4025" id="svg_42"/>
+    <line fill="none" x1="14.5" y1="110" x2="14.5" y2="27.9025" id="svg_41" transform="translate(1.5 1.5)" stroke="#000"/>
+    <line fill="none" x1="16" y1="112.5" x2="16" y2="30.4025" id="svg_40" stroke="#7a7374" stroke-width="3"/>
+    <line fill="none" x1="68" y1="29.5" x2="68" y2="113.52247" id="svg_39" stroke="#707374" stroke-width="3"/>
+    <line fill="none" x1="17" y1="79.5" x2="66.91103" y2="29.58898" id="svg_38" stroke-width="3" stroke="#7a7374"/>
+    <line fill="none" x1="70" y1="80" x2="119.82817" y2="30" id="svg_37" stroke-width="3" stroke="#707374"/>
+    <ellipse fill="none" cx="40" cy="39" id="svg_36" rx="6" ry="6" stroke-width="3" stroke="#7a7374"/>
+    <ellipse fill="none" cx="92" cy="39" id="svg_35" rx="5" ry="6" stroke-width="3" stroke="#7a7374"/>
+   </g>
+  </g>
+ </g>
+</svg>
